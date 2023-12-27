@@ -32,4 +32,4 @@ To get started:
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using `npm install`.
-3. Launch the project using `npm run dev` and then ctrl+click on `localhost` link to open it in your browser.
+3. Launch the project using `npm start`.
